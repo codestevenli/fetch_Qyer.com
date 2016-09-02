@@ -1,0 +1,1 @@
+#patch singapore for sight and food£¨at map_poi.xls£© in qyer.com
